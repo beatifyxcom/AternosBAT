@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SMP AFK Best",
+    "username": "Nazarbattu",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "OpenWorldSMP.aternos.me",
-    "port": 58695,
+    "ip": "KindredSMP-LcZz.aternos.me",
+    "port": 51867, 
     "version": "1.20.1",
     "try-creative": false
   },
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 150,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "I'm a bot to Make the server online!",
+        "Follow To @hardic.d4 or @alsohardic on Instagram",
+        "Please Do Not Try to kill me"
       ]
     },
     "chat-log": true,
